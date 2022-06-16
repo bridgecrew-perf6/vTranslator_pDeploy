@@ -2,7 +2,7 @@ auditok==0.2.0
 googletrans==3.1.0a0
 moviepy==1.0.3
 pytube==12.1.0
-SoundFile==0.10.3.post1
+SoundFile
 streamlit==1.10.0
 torch==1.11.0
 transformers==4.16.2
